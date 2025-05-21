@@ -12,6 +12,7 @@
 ![alt text](images/brake-motor-with-cap.jpg)
 - [Carpanelli](https://www.carpanelli.net/eng/catalogo/scheda-mma90la2-378)
 - [NeriMotori](https://www.nerimotori.com/en/prodotti/series-of-motors/single-phase-self-braking-motors/single-phase-self-braking-am)
+- [Brook Crompton](https://www.brookcrompton.com/ukanditaly/?page_id=881)
 
 
 
