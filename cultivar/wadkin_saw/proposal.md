@@ -1,7 +1,7 @@
 # Proposal
 
 ## Table Of Contents
-1. [Brake Motor](#brake-motor)
+1. [Brake Motor](#brake-motor-test)
 
 
 
