@@ -19,8 +19,29 @@
 ## Inverter
 - Single phase or 3 phase inverter.
 - Dynamic brake.
-
+  
 
 ## DC Injection
 - Can do this single or 3 phase. Crompton Controls are market leaders.
 - [Crompton S10 single phase brake](https://cromptoncontrols.co.uk/online-store/#!/products/s10-brake-1-0x2e-5kw-10-12a-230v-direct-on-line-0x3a--dpm1cls---crompton-controls) MEGA FUCKING EXPENNY THOUGH
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
