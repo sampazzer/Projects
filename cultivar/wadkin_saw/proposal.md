@@ -14,34 +14,16 @@
 - [NeriMotori](https://www.nerimotori.com/en/prodotti/series-of-motors/single-phase-self-braking-motors/single-phase-self-braking-am)
 - [Brook Crompton](https://www.brookcrompton.com/ukanditaly/?page_id=881)
 
-
+[Table Of Contents](#table-of-contents)
 
 ## Inverter
 - Single phase or 3 phase inverter.
 - Dynamic brake.
   
+[Table Of Contents](#table-of-contents)
 
 ## DC Injection
 - Can do this single or 3 phase. Crompton Controls are market leaders.
 - [Crompton S10 single phase brake](https://cromptoncontrols.co.uk/online-store/#!/products/s10-brake-1-0x2e-5kw-10-12a-230v-direct-on-line-0x3a--dpm1cls---crompton-controls) MEGA FUCKING EXPENNY THOUGH
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
+
+[Table Of Contents](#table-of-contents)
