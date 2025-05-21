@@ -4,4 +4,4 @@
 [Brake Motor](#brake-motor)
 
 
-### [Brake Motor]
+### Brake Motor
