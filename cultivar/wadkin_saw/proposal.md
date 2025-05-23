@@ -30,6 +30,10 @@ When you dissipate or load down a generator it has the effect of making it more 
 - A lot of VFD's have the ability to do this, some of them have resistors built in but if you require extra braking power you can add larger dynamic resistors to supplied terminals on the VFD.
 - By using an external dynamic braking resistor the energy is transferred to heat which is kept outside of the inverter or motor.
 - A combination of dynamic braking and dc injection braking can be used e.g. dynamic braking for the first 80% and injection for the last 20%.
+
+### Questions
+- When does dynamic braking occur on a VFD? Is it only on a stop command?
+- When does the ramp down setting kick in and is it part of the dynamic braking?
  
 [Table Of Contents](#table-of-contents)
 
