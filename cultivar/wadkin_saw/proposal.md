@@ -4,6 +4,7 @@
 1. [Brake Motor](#brake-motor)
 2. [Inverter](#inverter)
 3. [DC Injection](#dc-injection)
+4. [Solution](#solution)
 
 
 
@@ -45,3 +46,7 @@ When you dissipate or load down a generator it has the effect of making it more 
 - Not so expensive from [conway saws](https://www.conwaysaw.co.uk/product/dc-injection-braking/) though.
 
 [Table Of Contents](#table-of-contents)
+
+## Solution
+- Going for [Crompton Controls](https://cromptoncontrols.co.uk/online-store/#!/dc-injection-brakes/products/s10-brake-1-0x2e-5kw-10-12a-230v-direct-on-line-0x3a--dpm1cls---crompton-controls) S10 3DPM1CLS10 DC brake.
+- [Manual](<cultivar/wadkin_saw/pdf/S10 & Smooth Brake Manual 2014 Compressed.pdf>)
