@@ -50,5 +50,5 @@ When you dissipate or load down a generator it has the effect of making it more 
 ## Solution
 - Going for [Crompton Controls](https://cromptoncontrols.co.uk/online-store/#!/dc-injection-brakes/products/s10-brake-1-0x2e-5kw-10-12a-230v-direct-on-line-0x3a--dpm1cls---crompton-controls) S10 3DPM1CLS10 DC brake.
 - [Manual](<pdf/S10 & Smooth Brake Manual 2014 Compressed.pdf>)
-
-[Table Of Contents](#table-of-contents)
+- [text](<pdf/S10 & Smooth Brake Manual 2014 Compressed.pdf>)
+- [Table Of Contents](#table-of-contents)
