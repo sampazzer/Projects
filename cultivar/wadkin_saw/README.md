@@ -75,6 +75,4 @@ When you dissipate or load down a generator it has the effect of making it more 
     - Wagos.
     - Ferrules.
 
-NOT SURE YET
-
 - [Table Of Contents](#table-of-contents)
