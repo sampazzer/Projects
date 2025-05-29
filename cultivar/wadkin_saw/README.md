@@ -55,10 +55,11 @@ When you dissipate or load down a generator it has the effect of making it more 
 
 ### Mechanical
 
-- New
+#### New
+
 ![alt text](images/motor-replacement.png)
 
-- Old
+#### Old
 ![alt text](images/motor-original.jpeg)
 
 
