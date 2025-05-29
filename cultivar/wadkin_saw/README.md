@@ -68,11 +68,11 @@ When you dissipate or load down a generator it has the effect of making it more 
 ## Extra Parts
 - Think I'm going to take a feed off the top of the fused spur, into a 16 amp commando socket. Stick a 16 amp command plug on the motor cable with some 2.5mm SY cable.
 - Theres a motor overload for motor current protection and theres an internal fuse for the DC brake side.
-    - 16 amp commando socket.
-    - 16 amp commando plug.
-    - 2.5mm SY cable, 5m.
-    - Glands.
-    - Wagos.
-    - Ferrules.
+    - 1 x [16 amp commando socket](https://uk.rs-online.com/web/p/industrial-power-connectors/2144172) : [Manual](https://docs.rs-online.com/e3b3/A700000007746851.pdf)
+    - 2 x [16 amp commando plug](https://uk.rs-online.com/web/p/industrial-power-connectors/1358536?gb=s) : [Manual](https://docs.rs-online.com/28a3/0900766b815a2fee.pdf)
+    - 1 x [2.5mm SY cable, 5m](https://uk.rs-online.com/web/p/control-cable/2537033?gb=s) BS EN 50525-2-11 Clause 4.2, Table B.2.
+    - 1 x [Glands](https://uk.rs-online.com/web/p/cable-glands/0564854?gb=s)
+    - Wagos from work
+    - 1 x [Ferrules](https://uk.rs-online.com/web/p/crimping-kits/2280321?gb=s)
 
 - [Table Of Contents](#table-of-contents)
