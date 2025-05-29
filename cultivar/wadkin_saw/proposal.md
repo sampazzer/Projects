@@ -49,14 +49,30 @@ When you dissipate or load down a generator it has the effect of making it more 
 [Table Of Contents](#table-of-contents)
 
 ## Solution
+### Electrical
 - Going for [Crompton Controls](https://cromptoncontrols.co.uk/online-store/#!/dc-injection-brakes/products/s10-brake-1-0x2e-5kw-10-12a-230v-direct-on-line-0x3a--dpm1cls---crompton-controls) S10 3DPM1CLS10 DC brake.
-- [Manual](<pdf/S10 & Smooth Brake Manual 2014 Compressed.pdf>)
+- [S10 DC Brake Manual](<pdf/S10 & Smooth Brake Manual 2014 Compressed.pdf>)
+
+### Mechanical
+
+- New
+![alt text](images/motor-replacement.png)
+
+- Old
+![alt text](images/motor-original.jpeg)
+
+
 - [Table Of Contents](#table-of-contents)
 
 ## Extra Parts
-- Single commando socket and 16a C rated breaker?
-- 1 Rotary isolator feeding both machines?
-- 2 Sepparate isolators feeding each machine?  
+- Think I'm going to take a feed off the top of the fused spur, into a 16 amp commando socket. Stick a 16 amp command plug on the motor cable with some 2.5mm SY cable.
+- Theres a motor overload for motor current protection and theres an internal fuse for the DC brake side.
+    - 16 amp commando socket.
+    - 16 amp commando plug.
+    - 2.5mm SY cable, 5m.
+    - Glands.
+    - Wagos.
+    - Ferrules.
 
 NOT SURE YET
 
